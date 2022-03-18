@@ -1,0 +1,42 @@
+/* // Miguel Ángel Burgos Martínez  */
+.body
+{
+    background-color: #ffffff;
+}
+
+.titulo
+{
+  text-align: center;
+  color: #524c4c;
+}
+
+.container
+{
+  text-align: center;
+  color: #ffffff;
+  border-radius: 15px;
+  width: 500px;
+  margin: 0 auto;
+  background-color:#94c7fa;
+}
+
+#boton
+{
+  border-radius: 50px;
+  border: solid #ecca7e;
+  background-color: #cfd4b8;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+#r4
+{
+  font-size: 25px;
+}
+
+.credito
+{
+  text-align: center;
+  font-size: 9px;
+  color: #020202;
+}
